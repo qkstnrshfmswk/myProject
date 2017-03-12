@@ -8,9 +8,15 @@ int main()
 	return 0;
 }
 
+
 void add_element(int a[], int size)
 {
 	int i = 0;
 	for(i = 0;i<size;i++)
 		printf("%d\n", a[i]);
+}
+
+void print_arry(int a[])
+{
+	int i = 0;
 }
