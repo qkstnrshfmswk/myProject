@@ -2,6 +2,7 @@
 
 int main()
 {
+	int a[10] = {1, 2, 3};
 	printf("hi");
 	printf("heelo");
 	return 0;
