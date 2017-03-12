@@ -6,3 +6,8 @@ int main()
 	printf("heelo");
 	return 0;
 }
+
+void print_arry(int a[])
+{
+	
+}
