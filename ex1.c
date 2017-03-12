@@ -19,4 +19,5 @@ void add_element(int a[], int size)
 void print_arry(int a[])
 {
 	int i = 0;
+	for(i = 0)
 }
